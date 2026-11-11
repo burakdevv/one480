@@ -1,0 +1,16 @@
+/*
+ * one480 — MIT License
+ * TR: Bu dosya MIT Lisansı kapsamında sunulur.
+ * EN: This file is distributed under the MIT License.
+ * Copyright (c) 2026 one480 contributors
+ */
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<assembly xmlns="urn:schemas-microsoft-com:asm.v1" manifestVersion="1.0">
+ <assemblyIdentity version="1.0.0.0" processorArchitecture="*" name="one480" type="win32"/>
+ <description>one480 security scanner</description>
+ <trustInfo xmlns="urn:schemas-microsoft-com:asm.v3"><security><requestedPrivileges><requestedExecutionLevel level="asInvoker" uiAccess="false"/></requestedPrivileges></security></trustInfo>
+ <application xmlns="urn:schemas-microsoft-com:asm.v3"><windowsSettings>
+  <dpiAware xmlns="http://schemas.microsoft.com/SMI/2005/WindowsSettings">true/pm</dpiAware>
+  <dpiAwareness xmlns="http://schemas.microsoft.com/SMI/2016/WindowsSettings">PerMonitorV2</dpiAwareness>
+ </windowsSettings></application>
+</assembly>

@@ -1,1 +1,11 @@
-
+/*
+ * one480 — MIT License
+ * TR: Bu dosya MIT Lisansı kapsamında sunulur.
+ * EN: This file is distributed under the MIT License.
+ * Copyright (c) 2026 one480 contributors
+ */
+QWidget { font-family: "Segoe UI"; font-size: 10pt; color: #2B3A42; background: #FFFFFF; }
+QMainWindow { background: #FFFFFF; }
+QTextEdit { background: #F8FAFB; border: 1px solid #E1E7EA; border-radius: 7px; }
+QProgressBar { border: 0; background: #E8EFED; border-radius: 4px; height: 8px; }
+QProgressBar::chunk { background: #00A88E; border-radius: 4px; }

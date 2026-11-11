@@ -1,0 +1,9 @@
+/*
+ * one480 — MIT License
+ * TR: Bu dosya MIT Lisansı kapsamında sunulur.
+ * EN: This file is distributed under the MIT License.
+ * Copyright (c) 2026 one480 contributors
+ */
+<RCC><qresource prefix="/">
+ <file alias="style.qss">style.qss</file>
+</qresource></RCC>
